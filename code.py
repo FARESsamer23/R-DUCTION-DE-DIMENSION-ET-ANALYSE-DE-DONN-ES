@@ -1,9 +1,3 @@
-# ============================================================================
-# TP1 : RÉDUCTION DE DIMENSION - ANALYSE EN COMPOSANTES PRINCIPALES (ACP)
-# Université de Blida 1 - Département d'Informatique - 2025/2026
-# Dataset  : Iris — Source officielle : UCI Machine Learning Repository
-# Lien     : https://archive.ics.uci.edu/dataset/53/iris
-# ============================================================================
 
 # -----------------------------------------------------------------------------
 # ÉTAPE 0 : IMPORTATION DES BIBLIOTHÈQUES NÉCESSAIRES
